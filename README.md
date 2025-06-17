@@ -34,10 +34,10 @@
 ```bash
 # Clone the repository
 git clone https://github.com/phucdevz/Vietnamese_Pride.git
-cd Vietnamese_Pride
+cd VIETNAMCPP
 
 # Compile
 g++ -std=c++17 -o vietnamese_pride main.cpp
 
 # Run
-./vietnamese_pride
+./vietnamcpp
